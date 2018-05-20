@@ -1,0 +1,16 @@
+{
+  "name": "zip-code-range",
+  "version": "0.0.1",
+  "description": "An app written to condense redundant sets of zip code ranges",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zip",
+    "code",
+    "ranges"
+  ],
+  "author": "Matthew Stanley",
+  "license": "ISC"
+}
