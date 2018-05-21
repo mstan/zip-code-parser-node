@@ -1,4 +1,4 @@
-# Zip Code Parser (Java)
+# Zip Code Parser (Node/JS)
 
 This is an sample project written to demonstrate a problem in which a user provides multiple ranges of zip codes. Our goal is to compact those zip codes for any redundancies over overlaps that may appear.
 
