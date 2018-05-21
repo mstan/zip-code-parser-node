@@ -11,7 +11,7 @@ const zipCodeRanges = [
 // each 2nd dimension array is composed to two elements, each of which are 5 digit integers
 function handler(zipCodeRanges,cb) {
     zipCodeRangesLib.validate(zipCodeRanges, (err,response) => {
-        if(err || !response) {
+        if(err) {
             cb(err, null);
             return false;
         } else {

@@ -12,5 +12,9 @@
     "ranges"
   ],
   "author": "Matthew Stanley",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
 }
